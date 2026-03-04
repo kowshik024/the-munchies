@@ -32,22 +32,52 @@ export const menuCategories = [
 ];
 
 export const testimonials = [
-    {
-        name: "Arjun Ram",
-        text: "The best Filter Coffee in Madurai, hands down. The ambience is so modern yet feels like home.",
-        rating: 5,
-        role: "Local Guide"
-    },
-    {
-        name: "Priya Sundar",
-        text: "Tried the Vegan Bowl and it was surprisingly flavorful. Finally a place that cares about healthy options!",
-        rating: 5,
-        role: "Student"
-    },
-    {
-        name: "Vikram Seth",
-        text: "Perfect for family dinners. The staff is extremely polite and the parking space is a big plus.",
-        rating: 4,
-        role: "Business Owner"
-    }
+  {
+    name: "Praveen Kumar",
+    text: "Clean and comfortable ambience with well-arranged seating. A great place to enjoy a relaxed and peaceful meal with friends or family.",
+    rating: 5,
+    role: "Google Review"
+  },
+  {
+    name: "Yours Digitall",
+    text: "A great vegetarian spot with a wide variety of dishes including pasta, pizza, burgers, sandwiches, wraps and more. The food tastes good and the place maintains good hygiene.",
+    rating: 4,
+    role: "Local Guide • Google Review"
+  },
+  {
+    name: "Dharaniya J",
+    text: "Recently visited and had a wonderful experience. The ambience is calm and clean, the food is fresh and flavorful, and the staff are very friendly.",
+    rating: 5,
+    role: "Customer Review"
+  },
+  {
+    name: "Poornima Lakshmi Narayanan",
+    text: "Hosted a family celebration here and the experience was fantastic. The team and the owner were very supportive and made the event memorable.",
+    rating: 5,
+    role: "Event Guest"
+  },
+  {
+    name: "Balaji FX21005",
+    text: "Great ambience and authentic flavors. The corn and cheese momos were especially delicious.",
+    rating: 4,
+    role: "Google Review"
+  },
+  {
+    name: "Pandiyan Maruthu",
+    text: "Nice ambience and a decent menu selection. The pasta was tasty, the soup comforting, and the salad fresh.",
+    rating: 4,
+    role: "Local Guide"
+  },
+  {
+    name: "Sindhu Manivannan",
+    text: "Perfect place for spending quality family time. The peaceful ambience and thoughtful seating make the dining experience very enjoyable.",
+    rating: 5,
+    role: "Family Diner"
+  },
+  {
+    name: "Krishna Kumar",
+    text: "Excellent service and great quality food. Definitely a place worth visiting again.",
+    rating: 5,
+    role: "Customer"
+  }
 ];
